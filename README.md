@@ -1,8 +1,8 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Bookstore ReactJS
+# Space Travelers' Hub ReactJS
 
-> This project lists some books and you can add you favorite to it.
+> This is a Webapp gives information about SPACEX and their rockets. You will be able to book rockets and join selected space missions.
 
 
 ## Built With
@@ -22,8 +22,8 @@ Not yet available.
 > Any Web Browser
 
 ### if you want to setup the project
-- clone the project
-- `cd bookstore`
+- clone https://github.com/Moathal/space-x
+- `cd space-x`
 - `npm i`
 - `npm start`
 
